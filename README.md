@@ -2,6 +2,8 @@
 
 > BRACKEN DNS services for recursive and authoritative resolution, caching, DNSSEC workflows, health-aware answers, and traffic steering.
 
+> Contributor guide: [CONTRIBUTING.md](CONTRIBUTING.md)
+
 > **Status:** Early-stage design and implementation. This guide expands the intended repository scope; verify the code and release notes before relying on any described capability.
 
 # BRACKEN DNS
