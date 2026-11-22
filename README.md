@@ -1,5 +1,7 @@
 # DNS services and traffic steering — BRACKEN Engineering Guide
 
+> BRACKEN DNS services for recursive and authoritative resolution, caching, DNSSEC workflows, health-aware answers, and traffic steering.
+
 > **Status:** Early-stage design and implementation. This guide expands the intended repository scope; verify the code and release notes before relying on any described capability.
 
 # BRACKEN DNS
